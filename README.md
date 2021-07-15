@@ -1,5 +1,6 @@
 # 25-VLSI-Miniprojects
-Implementing all aat topics given to students by college using microwind and verilog tools like modelsim and quartus prime.
+Implementing all aat topics given to students by college using microwind and verilog tools like modelsim and quartus prime.<br>
+Some mini-projects are repeatition of 32-verilog-miniprojects
 
 <h3>Microwind and Dsch2 tools</h3>
 
