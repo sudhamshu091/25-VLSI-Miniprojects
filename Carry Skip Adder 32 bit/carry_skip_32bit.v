@@ -63,7 +63,6 @@ half_adder h2(.a(x), .b(cin), .sum(sum), .cout(z));
 or or_1(cout,z,y);
 endmodule
 
-
 module half_adder( a,b, sum, cout );
 input a,b;
 output sum, cout;
