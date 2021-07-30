@@ -70,7 +70,6 @@ xor xor_1 (sum,a,b);
 and and_1 (cout,a,b);
 endmodule
  
-
 module mux2X1( in0,in1,sel,out);
 input in0,in1;
 input sel;
