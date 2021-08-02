@@ -1,7 +1,7 @@
 module array4(a,b,c);
     input [3:0]a, b;
     output [7:0]c;
-     
+      
     wire [3:0]q0,q1,q2,q3,q4,temp1;
      
     wire [7:0]c;
