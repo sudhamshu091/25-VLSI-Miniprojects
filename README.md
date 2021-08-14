@@ -28,7 +28,7 @@ Download Microwind.zip, no need to install, launch microwind from "Export microw
 19. Priority encoder CMOS circuit design<br>
 20. FIFO<br>
 21. LIFO<br>
-22. 8 bit LFSR<br>
+22. 4 bit LFSR<br>
 23. 8 bit 1’s counter<br>
 24. Content Addressable memory<br>
 25. Pseudo-NMOS NAND ROM<br>
