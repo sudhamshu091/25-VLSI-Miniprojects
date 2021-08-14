@@ -1,4 +1,4 @@
-## One Zero Detector 8 bit
+## Funnel Shifter 10 bit
 
 [Right Funnel Shifter](right_funnel_shifter.v)
 [Right Funnel Shifter Testbench](right_funnel_shifter_tb.v)
