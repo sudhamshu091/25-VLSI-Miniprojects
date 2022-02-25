@@ -1,5 +1,5 @@
 ## Priority Encoder
-[CMOS](pencode.jpg)<br>
-![CMOS](pencode.jpg)<br>
-[Waveform](waveform.jpg)<br>
-![Waveform](waveform.jpg)<br>
+[CMOS](pencode.jpeg)<br>
+![CMOS](pencode.jpeg)<br>
+[Waveform](waveform.jpeg)<br>
+![Waveform](waveform.jpeg)<br>
