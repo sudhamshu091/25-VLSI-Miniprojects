@@ -1,4 +1,4 @@
 ## LIFO
 
 [LIFO](lifo.v)
-![LIFO](lifo.jpg)
+![LIFO](lifo.png)
